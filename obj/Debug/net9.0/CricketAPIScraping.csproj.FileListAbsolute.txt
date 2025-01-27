@@ -1,0 +1,15 @@
+E:\CSharpProjects\CricketAPIScraping\CricketAPIScraping\bin\Debug\net9.0\CricketAPIScraping.exe
+E:\CSharpProjects\CricketAPIScraping\CricketAPIScraping\bin\Debug\net9.0\CricketAPIScraping.deps.json
+E:\CSharpProjects\CricketAPIScraping\CricketAPIScraping\bin\Debug\net9.0\CricketAPIScraping.runtimeconfig.json
+E:\CSharpProjects\CricketAPIScraping\CricketAPIScraping\bin\Debug\net9.0\CricketAPIScraping.dll
+E:\CSharpProjects\CricketAPIScraping\CricketAPIScraping\bin\Debug\net9.0\CricketAPIScraping.pdb
+E:\CSharpProjects\CricketAPIScraping\CricketAPIScraping\obj\Debug\net9.0\CricketAPIScraping.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpProjects\CricketAPIScraping\CricketAPIScraping\obj\Debug\net9.0\CricketAPIScraping.AssemblyInfoInputs.cache
+E:\CSharpProjects\CricketAPIScraping\CricketAPIScraping\obj\Debug\net9.0\CricketAPIScraping.AssemblyInfo.cs
+E:\CSharpProjects\CricketAPIScraping\CricketAPIScraping\obj\Debug\net9.0\CricketAPIScraping.csproj.CoreCompileInputs.cache
+E:\CSharpProjects\CricketAPIScraping\CricketAPIScraping\obj\Debug\net9.0\CricketAPIScraping.dll
+E:\CSharpProjects\CricketAPIScraping\CricketAPIScraping\obj\Debug\net9.0\refint\CricketAPIScraping.dll
+E:\CSharpProjects\CricketAPIScraping\CricketAPIScraping\obj\Debug\net9.0\CricketAPIScraping.pdb
+E:\CSharpProjects\CricketAPIScraping\CricketAPIScraping\obj\Debug\net9.0\CricketAPIScraping.genruntimeconfig.cache
+E:\CSharpProjects\CricketAPIScraping\CricketAPIScraping\obj\Debug\net9.0\ref\CricketAPIScraping.dll
+E:\CSharpProjects\CricketAPIScraping\CricketAPIScraping\obj\Debug\net9.0\CricketAPIScraping.sourcelink.json
